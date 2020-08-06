@@ -1,6 +1,6 @@
 # My First Unity Game: Ninja Frog Platformer
 
-**A brief platformer with some problem solving elements**
+**A platformer with some dexterity-based problem solving elements**
 
 Go here to play: https://jakeaufderheide.github.io/ninja_frog_platformer/
 
