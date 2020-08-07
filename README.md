@@ -10,13 +10,13 @@ Go here to play: https://jakeaufderheide.github.io/ninja_frog_platformer/
  ![A frog ninja jumping over a masked enemy](screenshot.png)
 
 ## Controls
-Left = A
+Movement = Left Stick / A / D / L-Arrow / R-Arrow
 
-Right = D
+Dash = F / R-Trigger
 
-Attack = F
+Attack = S / West Button (X)
 
-Jump = Space
+Jump = Space / Up-Arrow / South Button (A)
 
 
 ## Attributions
